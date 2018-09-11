@@ -16,6 +16,7 @@ application that meets the following functional/ non-functional requirements.
 
 
 Requirements:
+
     1. Must be runnable in CentOS 7, you will provide setup instructions to test your application.
     2. Must allow a user to create TODO items
     3. Must allow a user to mark a TODO item as complete
@@ -40,5 +41,5 @@ To use:
 2)
     $ node server.js
     
-3)Visit the address that it displayed in the console.
+3) Visit the address that it displayed in the console.
 
